@@ -1,4 +1,4 @@
 
 # **In Stock**
 
-###Um aplicativo para gerencia de estoque.
+### Um aplicativo para gerencia de estoque.
