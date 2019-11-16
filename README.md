@@ -1,4 +1,4 @@
 
-# **Mercado**
+# **In Stock**
 
-### So test for exercise
+###Um aplicativo para gerencia de estoque.
