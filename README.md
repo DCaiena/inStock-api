@@ -1,5 +1,5 @@
 
-![Telas](https://raw.githubusercontent.com/Deathset/Mercado/master/Telas_InStock.png)
+![Telas](https://raw.githubusercontent.com/Deathset/Mercado/master/assets/Telas_InStock.png)
 
 # **In Stock**
 
