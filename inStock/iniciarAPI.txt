@@ -1,0 +1,10 @@
+entre no diretório atual e execute:
+pip install -Ur requeriments.txt
+python manage.py runserver
+depois acesse: http://localhost:8000
+no arquivo urls.py está comentado os endereços para cada a��o
+obs:
+para acessar a área dministrativa acesse:
+http://localhost:8000/admin obs: acesso com o servi�o j� no ar
+useraname: Romulo
+senha: 32820388rR@
