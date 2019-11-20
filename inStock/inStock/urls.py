@@ -20,7 +20,8 @@ from estoque.views import (
     LoteList,
     LoteDetail,
     ProdutoList,
-    ProdutoDetail
+    ProdutoDetail,
+    ProdutoBusca
 )
 
 # from rest_framework.routers import DefaultRouter
@@ -32,6 +33,7 @@ urlpatterns = [
     path('lote/<int:pk>', LoteDetail.as_view()),  # para acessar http://127.0.0.1:8000/lote/id
     path('produto/', ProdutoList.as_view()),  # para acessar http://127.0.0.1:8000/produto/
     path('produto/<int:pk>', ProdutoDetail.as_view()),  # para acessar http://127.0.0.1:8000/produto/id
+    path('produto/<str:nome>', ProdutoBusca.as_view()),
     path('admin/', admin.site.urls),
     path('api-auth/', include('rest_framework.urls', namespace='rest_framework'))
 ]
