@@ -3,4 +3,4 @@
 
 # **InStock**
 
-### Um aplicativo para gerencia de estoque.
+### Um aplicativo para gerenciar pequenos negócios.
